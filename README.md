@@ -2,22 +2,22 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Niraj More
 ==================================================================================================================================
 
-Aspiring Full Stack Developer | Competitive Programmer | Machine learning | AI | Data Science
+Frontend Developer | Competitive Programmer
 -------------------------------------------
 
 I am engineering student studying Artificial Intelligence & Data Science.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [moreniraj49@gmail.com](mailto:moreniraj49@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithm and React JS 
+* 🧠  I'm learning Data Structures and Algorithm and React JS
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/niraj-more-55b49b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niraj-more-55b49b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/moreniraj49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/moreniraj49" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/moreniraj49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/moreniraj49" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/https://leetcode.com/u/niraj123466/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/niraj123466/" height="30" width="40" /></a>  
-<a href="https://auth.geeksforgeeks.org/user/https://geeksforgeeks.org/user/morenimdbq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://geeksforgeeks.org/user/morenimdbq/" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/niraj-more-55b49b248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niraj-more-55b49b248" height="30" width="40" /></a>  
+<a href="https://www.codechef.com/users/moreniraj49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="moreniraj49" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/moreniraj49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="moreniraj49" height="30" width="40" /></a>  
+<a href="https://www.leetcode.com/niraj123466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niraj123466" height="30" width="40" /></a>  
+<a href="https://auth.geeksforgeeks.org/user/morenimdbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="morenimdbq" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
