@@ -6,7 +6,7 @@ I am engineering student studying Artificial Intelligence & Data Science.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [moreniraj49@gmail.com](mailto:moreniraj49@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithm and React JS
+* 🧠  I'm learning Data Structures and Algorithm and MERN stack 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
